@@ -1,0 +1,39 @@
+{
+    "parser": "@typescript-eslint/parser",
+    "plugins": ["@typescript-eslint"],
+    "extends": ["plugin:@typescript-eslint/recommended", "airbnb-base"],
+    "env": {
+        "browser": false
+    },
+    "rules": {
+        "indent": ["error", 4, { "SwitchCase": 1 }],
+        "max-len": ["error", { "ignoreComments": true, "ignoreStrings": true, "code": 100 }],
+        "import/no-unresolved": false,
+        "class-methods-use-this": 0,
+        "no-param-reassign": 0,
+        "implicit-arrow-linebreak": 0,
+        "prefer-destructuring": [
+            "error",
+            {
+                "array": false,
+                "object": true
+            }
+        ],
+        "function-paren-newline": 0,
+        "no-underscore-dangle": 0,
+        "arrow-parens": 0,
+        "no-unused-vars": 0,
+        "object-curly-newline": 0,
+        "prefer-destructuring": 0,
+        "no-fallthrough": 0,
+        "no-shadow": 0,
+        "guard-for-in": 0,
+        "import/prefer-default-export": false,
+        "operator-linebreak": 0,
+        "comma-dangle": 0,
+        "lines-between-class-members": ["error", "always", { "exceptAfterSingleLine": true }],
+        "@typescript-eslint/interface-name-prefix": 0,
+        "@typescript-eslint/indent": 0,
+        "@typescript-eslint/no-non-null-assertion": 0
+    }
+}

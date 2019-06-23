@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitReturns": true,
+        "noImplicitAny": true,
+        "noUnusedLocals": false,
+        "suppressImplicitAnyIndexErrors": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "lib": ["es5", "es2018"],
+        "target": "es2017",
+        "allowJs": false,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "resolveJsonModule": true
+    },
+    "typedocOptions": {
+        "mode": "modules",
+        "out": "docs"
+    },
+    "include": ["./src/"],
+    "exclude": ["node_modules"],
+    "compileOnSave": true
+}
