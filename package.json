@@ -2,8 +2,8 @@
     "name": "node-poe-api",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
-    "description": "",
-    "version": "1.0.0",
+    "description": "A minimal module exposing the Path of Exile stash tabs API.",
+    "version": "1.0.1",
     "author": "Stephen Poole",
     "dependencies": {
         "bluebird": "^3.5.5",
