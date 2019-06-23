@@ -3,8 +3,11 @@
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "description": "A minimal module exposing the Path of Exile stash tabs API.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Stephen Poole",
+    "files": [
+        "dist/*"
+    ],
     "dependencies": {
         "bluebird": "^3.5.5",
         "dotenv": "^6.2.0",
