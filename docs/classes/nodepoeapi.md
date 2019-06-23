@@ -27,7 +27,7 @@
 
 Defined in dist/index.d.ts:3
 
-*Defined in [src/index.ts:5](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/index.ts#L5)*
+*Defined in [src/index.ts:5](https://github.com/stephenpoole/poe-api/blob/95fe262/src/index.ts#L5)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 ▸ **get**(`path`: string, `qs`: unknown): *`rp.RequestPromise`*
 
-*Defined in [src/index.ts:12](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/index.ts#L12)*
+*Defined in [src/index.ts:12](https://github.com/stephenpoole/poe-api/blob/95fe262/src/index.ts#L12)*
 
 **Parameters:**
 
@@ -54,7 +54,7 @@ ___
 
 ▸ **stashTabs**(`nextChangeId?`: string): *`Promise<StashTabsResponse>`*
 
-*Defined in [src/index.ts:7](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/index.ts#L7)*
+*Defined in [src/index.ts:7](https://github.com/stephenpoole/poe-api/blob/95fe262/src/index.ts#L7)*
 
 **Parameters:**
 
