@@ -11,7 +11,7 @@ A minimal module exposing the Path of Exile stash tabs API. Typescript is suppor
 # Example
 
 ```
-const poe = require('node-poe-api);
+const poe = require('node-poe-api');
 
 (async () => {
     const result = await poe.stashTabs();
