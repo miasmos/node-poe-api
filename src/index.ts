@@ -1,7 +1,7 @@
 import * as rp from 'request-promise';
 import { StashTabsResponse } from './types/stashTabs';
 
-export class NodePoeApi {
+export default class NodePoeApi {
     public static origin = 'http://www.pathofexile.com/api';
 
     public static stashTabs = (nextChangeId?: string): Promise<StashTabsResponse> =>
