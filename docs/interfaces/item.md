@@ -66,7 +66,7 @@
 
 Defined in dist/types/stashTabs.d.ts:16
 
-Defined in src/types/stashTabs.ts:18
+*Defined in [src/types/stashTabs.ts:18](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L18)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:17
 
-Defined in src/types/stashTabs.ts:19
+*Defined in [src/types/stashTabs.ts:19](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L19)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:18
 
-Defined in src/types/stashTabs.ts:20
+*Defined in [src/types/stashTabs.ts:20](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L20)*
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:19
 
-Defined in src/types/stashTabs.ts:21
+*Defined in [src/types/stashTabs.ts:21](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L21)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:20
 
-Defined in src/types/stashTabs.ts:22
+*Defined in [src/types/stashTabs.ts:22](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L22)*
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:21
 
-Defined in src/types/stashTabs.ts:23
+*Defined in [src/types/stashTabs.ts:23](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L23)*
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:22
 
-Defined in src/types/stashTabs.ts:24
+*Defined in [src/types/stashTabs.ts:24](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L24)*
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:23
 
-Defined in src/types/stashTabs.ts:25
+*Defined in [src/types/stashTabs.ts:25](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L25)*
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:24
 
-Defined in src/types/stashTabs.ts:26
+*Defined in [src/types/stashTabs.ts:26](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L26)*
 
 ___
 
@@ -156,7 +156,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:25
 
-Defined in src/types/stashTabs.ts:27
+*Defined in [src/types/stashTabs.ts:27](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L27)*
 
 ___
 
@@ -166,7 +166,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:26
 
-Defined in src/types/stashTabs.ts:28
+*Defined in [src/types/stashTabs.ts:28](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L28)*
 
 ___
 
@@ -176,7 +176,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:27
 
-Defined in src/types/stashTabs.ts:29
+*Defined in [src/types/stashTabs.ts:29](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L29)*
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:28
 
-Defined in src/types/stashTabs.ts:30
+*Defined in [src/types/stashTabs.ts:30](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L30)*
 
 ___
 
@@ -196,7 +196,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:29
 
-Defined in src/types/stashTabs.ts:31
+*Defined in [src/types/stashTabs.ts:31](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L31)*
 
 ___
 
@@ -206,7 +206,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:30
 
-Defined in src/types/stashTabs.ts:32
+*Defined in [src/types/stashTabs.ts:32](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L32)*
 
 ___
 
@@ -216,7 +216,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:31
 
-Defined in src/types/stashTabs.ts:33
+*Defined in [src/types/stashTabs.ts:33](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L33)*
 
 ___
 
@@ -226,7 +226,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:32
 
-Defined in src/types/stashTabs.ts:34
+*Defined in [src/types/stashTabs.ts:34](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L34)*
 
 ___
 
@@ -236,7 +236,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:33
 
-Defined in src/types/stashTabs.ts:35
+*Defined in [src/types/stashTabs.ts:35](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L35)*
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:34
 
-Defined in src/types/stashTabs.ts:36
+*Defined in [src/types/stashTabs.ts:36](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L36)*
 
 ___
 
@@ -256,7 +256,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:35
 
-Defined in src/types/stashTabs.ts:37
+*Defined in [src/types/stashTabs.ts:37](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L37)*
 
 ___
 
@@ -266,7 +266,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:36
 
-Defined in src/types/stashTabs.ts:38
+*Defined in [src/types/stashTabs.ts:38](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L38)*
 
 ___
 
@@ -276,7 +276,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:37
 
-Defined in src/types/stashTabs.ts:39
+*Defined in [src/types/stashTabs.ts:39](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L39)*
 
 ___
 
@@ -286,7 +286,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:38
 
-Defined in src/types/stashTabs.ts:40
+*Defined in [src/types/stashTabs.ts:40](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L40)*
 
 ___
 
@@ -296,7 +296,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:39
 
-Defined in src/types/stashTabs.ts:41
+*Defined in [src/types/stashTabs.ts:41](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L41)*
 
 ___
 
@@ -306,7 +306,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:40
 
-Defined in src/types/stashTabs.ts:42
+*Defined in [src/types/stashTabs.ts:42](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L42)*
 
 ___
 
@@ -316,7 +316,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:41
 
-Defined in src/types/stashTabs.ts:43
+*Defined in [src/types/stashTabs.ts:43](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L43)*
 
 ___
 
@@ -326,7 +326,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:42
 
-Defined in src/types/stashTabs.ts:44
+*Defined in [src/types/stashTabs.ts:44](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L44)*
 
 ___
 
@@ -336,7 +336,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:43
 
-Defined in src/types/stashTabs.ts:45
+*Defined in [src/types/stashTabs.ts:45](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L45)*
 
 ___
 
@@ -346,7 +346,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:44
 
-Defined in src/types/stashTabs.ts:46
+*Defined in [src/types/stashTabs.ts:46](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L46)*
 
 ___
 
@@ -356,7 +356,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:45
 
-Defined in src/types/stashTabs.ts:47
+*Defined in [src/types/stashTabs.ts:47](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L47)*
 
 ___
 
@@ -366,7 +366,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:46
 
-Defined in src/types/stashTabs.ts:48
+*Defined in [src/types/stashTabs.ts:48](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L48)*
 
 ___
 
@@ -376,7 +376,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:47
 
-Defined in src/types/stashTabs.ts:49
+*Defined in [src/types/stashTabs.ts:49](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L49)*
 
 ___
 
@@ -386,7 +386,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:48
 
-Defined in src/types/stashTabs.ts:50
+*Defined in [src/types/stashTabs.ts:50](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L50)*
 
 ___
 
@@ -396,7 +396,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:49
 
-Defined in src/types/stashTabs.ts:51
+*Defined in [src/types/stashTabs.ts:51](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L51)*
 
 ___
 
@@ -406,7 +406,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:50
 
-Defined in src/types/stashTabs.ts:52
+*Defined in [src/types/stashTabs.ts:52](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L52)*
 
 ___
 
@@ -416,7 +416,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:51
 
-Defined in src/types/stashTabs.ts:53
+*Defined in [src/types/stashTabs.ts:53](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L53)*
 
 ___
 
@@ -426,7 +426,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:52
 
-Defined in src/types/stashTabs.ts:54
+*Defined in [src/types/stashTabs.ts:54](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L54)*
 
 ___
 
@@ -436,7 +436,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:53
 
-Defined in src/types/stashTabs.ts:55
+*Defined in [src/types/stashTabs.ts:55](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L55)*
 
 ___
 
@@ -446,7 +446,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:54
 
-Defined in src/types/stashTabs.ts:56
+*Defined in [src/types/stashTabs.ts:56](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L56)*
 
 ___
 
@@ -456,7 +456,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:55
 
-Defined in src/types/stashTabs.ts:57
+*Defined in [src/types/stashTabs.ts:57](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L57)*
 
 ___
 
@@ -466,7 +466,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:56
 
-Defined in src/types/stashTabs.ts:58
+*Defined in [src/types/stashTabs.ts:58](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L58)*
 
 ___
 
@@ -476,7 +476,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:57
 
-Defined in src/types/stashTabs.ts:59
+*Defined in [src/types/stashTabs.ts:59](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L59)*
 
 ___
 
@@ -486,7 +486,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:58
 
-Defined in src/types/stashTabs.ts:60
+*Defined in [src/types/stashTabs.ts:60](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L60)*
 
 ___
 
@@ -496,7 +496,7 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:59
 
-Defined in src/types/stashTabs.ts:61
+*Defined in [src/types/stashTabs.ts:61](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L61)*
 
 ___
 
@@ -506,6 +506,6 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:60
 
-Defined in src/types/stashTabs.ts:62
+*Defined in [src/types/stashTabs.ts:62](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L62)*
 
 ___

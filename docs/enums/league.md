@@ -19,7 +19,7 @@
 
 Defined in dist/types/stashTabs.d.ts:13
 
-Defined in src/types/stashTabs.ts:14
+*Defined in [src/types/stashTabs.ts:14](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L14)*
 
 ___
 
@@ -29,6 +29,6 @@ ___
 
 Defined in dist/types/stashTabs.d.ts:12
 
-Defined in src/types/stashTabs.ts:13
+*Defined in [src/types/stashTabs.ts:13](https://github.com/stephenpoole/poe-api/blob/e4bfd33/src/types/stashTabs.ts#L13)*
 
 ___
