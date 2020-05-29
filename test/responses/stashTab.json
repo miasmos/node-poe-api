@@ -1,0 +1,2929 @@
+{
+    "next_change_id": "2947-5227-4265-5429-1849",
+    "stashes": [
+        {
+            "accountName": "Nightlines",
+            "lastCharacterName": "OvertunedDeliriumMobs",
+            "id": "a9a42a5dbda657f71b077ecd0692acce8d1d29c7dff3437e5ed8708f6cb8838f",
+            "stash": "LEVELING UNIQUES",
+            "stashType": "PremiumStash",
+            "items": [],
+            "public": false
+        },
+        {
+            "accountName": "Jephire",
+            "lastCharacterName": "",
+            "id": "3c8f1dc99dabab14f888755f133dfb532dee09edb2058dd7138d4409c6923f72",
+            "stash": "$",
+            "stashType": "PremiumStash",
+            "items": [],
+            "public": false
+        },
+        {
+            "accountName": "5a4oK",
+            "lastCharacterName": "temniypoputchik_Oni",
+            "id": "6e6c9fccde21d76d8d5a55dea31a45e34e426f10fb5eaebe0d67d8c7cdfa5ccd",
+            "stash": "Orbs",
+            "stashType": "PremiumStash",
+            "items": [],
+            "public": false
+        },
+        {
+            "accountName": "5a4oK",
+            "lastCharacterName": "temniypoputchik_Oni",
+            "id": "6e744b0f76179835e1f681ce81c513ea190cb021b34eaacafe4c3d4f6990395f",
+            "stash": "What i need",
+            "stashType": "PremiumStash",
+            "items": [
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 4,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Bows/SarkhamsReach.png?w=2&h=4&scale=1&v=f333c2e4005ee20a84270731baa5fa6a",
+                    "league": "Hardcore",
+                    "id": "176b5e6f7af0a5bb4b48d7fdafa47501a179f4ea095815a58c82c4b5244b3cdb",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        }
+                    ],
+                    "name": "Roth's Reach",
+                    "typeLine": "Recurve Bow",
+                    "identified": true,
+                    "ilvl": 71,
+                    "note": "~price 10 exa",
+                    "properties": [
+                        {
+                            "name": "Bow",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Quality",
+                            "values": [["+17%", 1]],
+                            "displayMode": 0,
+                            "type": 6
+                        },
+                        {
+                            "name": "Physical Damage",
+                            "values": [["20-63", 1]],
+                            "displayMode": 0,
+                            "type": 9
+                        },
+                        {
+                            "name": "Critical Strike Chance",
+                            "values": [["6.70%", 0]],
+                            "displayMode": 0,
+                            "type": 12
+                        },
+                        {
+                            "name": "Attacks per Second",
+                            "values": [["1.31", 1]],
+                            "displayMode": 0,
+                            "type": 13
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["18", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["65", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "explicitMods": [
+                        "68% increased Physical Damage",
+                        "5% increased Attack Speed",
+                        "Skills Chain +1 times",
+                        "30% increased Projectile Speed",
+                        "34% increased Elemental Damage with Attack Skills"
+                    ],
+                    "flavourText": [
+                        "\"Exiled to the sea; what a joke. \r",
+                        "I'm more free than I've ever been.\"\r",
+                        "- Captain Weylam \"Rot-tooth\" Roth of the Black Crest"
+                    ],
+                    "frameType": 3,
+                    "x": 10,
+                    "y": 0,
+                    "inventoryId": "Stash1",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/LeapSlam.png?w=1&h=1&scale=1&v=73d0b5f9f1c52f0e0e87f74a80a549ab",
+                    "support": false,
+                    "league": "Hardcore",
+                    "id": "8d84024bd2f99bd467b671e6915bc999f6e26f512c7f7034f54ff182781198e6",
+                    "name": "",
+                    "typeLine": "Leap Slam",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Attack, AoE, Movement, Travel, Melee",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Cost",
+                            "values": [["10", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["9569/9569", 0]],
+                            "displayMode": 2,
+                            "progress": 1,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["10", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["29", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "nextLevelRequirements": [
+                        {
+                            "name": "Level",
+                            "values": [["13", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["35", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Jump into the air, damaging and knocking back enemies with your weapon where you land. Enemies you would land on are pushed out of the way. Requires an Axe, Mace, Sceptre, Sword or Staff. Cannot be supported by Multistrike.",
+                    "explicitMods": [
+                        "20% increased Stun Duration against Enemies that are on Full Life",
+                        "+0.55 seconds to Attack Time",
+                        "Damaging Hits always Stun Enemies that are on Full Life"
+                    ],
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 0,
+                    "y": 1,
+                    "inventoryId": "Stash2"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/HighQuestRewardRed.png?w=1&h=1&scale=1&v=fcfea32513c2b1566a61fddfd1c341c9",
+                    "league": "Hardcore",
+                    "id": "d9503c22d6a753bed25ee06b63e8b17ad5f898cc7266a6eccebe6f993ee8944f",
+                    "name": "Conqueror's Efficiency",
+                    "typeLine": "Crimson Jewel",
+                    "identified": true,
+                    "ilvl": 1,
+                    "properties": [
+                        {
+                            "name": "Limited to",
+                            "values": [["1", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "explicitMods": [
+                        "3% reduced Mana Cost of Skills",
+                        "4% increased Skill Effect Duration",
+                        "2% reduced Mana Reserved"
+                    ],
+                    "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+                    "flavourText": ["The stone may yet bleed."],
+                    "frameType": 3,
+                    "x": 11,
+                    "y": 5,
+                    "inventoryId": "Stash3"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmulet.png?w=1&h=1&scale=1&v=484a8eac4316c65308deea4efcfbb621",
+                    "league": "Hardcore",
+                    "id": "358da932979a1121115fd923e0d57fd9fb7f179ddca77a7abfe6e1d767034924",
+                    "name": "Soul Beads",
+                    "typeLine": "Turquoise Amulet",
+                    "identified": true,
+                    "ilvl": 73,
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["57", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "implicitMods": ["+18 to Dexterity and Intelligence"],
+                    "explicitMods": [
+                        "11% increased Spell Damage",
+                        "Adds 18 to 31 Fire Damage to Attacks",
+                        "37% increased Global Critical Strike Chance",
+                        "+25 to maximum Mana",
+                        "+27% to Fire Resistance",
+                        "+23% to Cold Resistance"
+                    ],
+                    "frameType": 2,
+                    "x": 0,
+                    "y": 0,
+                    "inventoryId": "Stash4"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/IncreasedDuration.png?w=1&h=1&scale=1&v=14b3a91933f0b921d1b573358e31f768",
+                    "support": true,
+                    "league": "Hardcore",
+                    "id": "2ce90c7a129f83de3406769e8b9e09763be5e5ad4311bf475cf5d4375831f705",
+                    "name": "",
+                    "typeLine": "Increased Duration Support",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Support, Duration",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Multiplier",
+                            "values": [["140%", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/285815", 0]],
+                            "displayMode": 2,
+                            "progress": 3.4987667731911642e-6,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["31", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["52", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Supports any skill with a duration.",
+                    "explicitMods": ["Supported Skills have 45% increased Skill Effect Duration"],
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 0,
+                    "y": 2,
+                    "inventoryId": "Stash5"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 2,
+                    "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9ldmFzaW9uZmxhc2swMSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/5856dc353f/Item.png",
+                    "league": "Hardcore",
+                    "id": "bcd6e8fa61888422a1faed414577030569395da4290012e1bbe54b017071011b",
+                    "name": "",
+                    "typeLine": "Jade Flask",
+                    "identified": true,
+                    "ilvl": 71,
+                    "properties": [
+                        {
+                            "name": "Lasts %0 Seconds",
+                            "values": [["4.00", 0]],
+                            "displayMode": 3
+                        },
+                        {
+                            "name": "Consumes %0 of %1 Charges on use",
+                            "values": [
+                                ["30", 0],
+                                ["60", 0]
+                            ],
+                            "displayMode": 3
+                        },
+                        {
+                            "name": "Currently has %0 Charges",
+                            "values": [["0", 0]],
+                            "displayMode": 3
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["27", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "utilityMods": ["+3000 to Evasion Rating"],
+                    "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+                    "frameType": 0,
+                    "x": 10,
+                    "y": 8,
+                    "inventoryId": "Stash6"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 2,
+                    "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9saWZlZmxhc2sxMG9sZCIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/2a144123a4/Item.png",
+                    "league": "Hardcore",
+                    "id": "5e968f419af74b6c673927fd0f083ab3599573d2879d1f6e9c27085a761ea9fa",
+                    "name": "",
+                    "typeLine": "Cautious Divine Life Flask of Warding",
+                    "identified": true,
+                    "ilvl": 62,
+                    "properties": [
+                        {
+                            "name": "Quality",
+                            "values": [["+20%", 1]],
+                            "displayMode": 0,
+                            "type": 6
+                        },
+                        {
+                            "name": "Recovers %0 Life over %1 Seconds",
+                            "values": [
+                                ["2880", 1],
+                                ["7.00", 0]
+                            ],
+                            "displayMode": 3
+                        },
+                        {
+                            "name": "Consumes %0 of %1 Charges on use",
+                            "values": [
+                                ["15", 0],
+                                ["45", 0]
+                            ],
+                            "displayMode": 3
+                        },
+                        {
+                            "name": "Currently has %0 Charges",
+                            "values": [["0", 0]],
+                            "displayMode": 3
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["60", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "explicitMods": [
+                        "100% increased Recovery when on Low Life",
+                        "Immune to Curses during Flask effect\nRemoves Curses on use"
+                    ],
+                    "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+                    "frameType": 1,
+                    "x": 11,
+                    "y": 6,
+                    "inventoryId": "Stash7"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Amulets/TurquoiseAmulet.png?w=1&h=1&scale=1&v=484a8eac4316c65308deea4efcfbb621",
+                    "league": "Hardcore",
+                    "id": "ec668472eadc44c1cbca519d5f1b085cc68adda7aaa1440511d6724b699d3506",
+                    "name": "Pandemonium Beads",
+                    "typeLine": "Turquoise Amulet",
+                    "identified": true,
+                    "ilvl": 72,
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["57", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "implicitMods": ["+18 to Dexterity and Intelligence"],
+                    "explicitMods": [
+                        "+11 to all Attributes",
+                        "20% increased Spell Damage",
+                        "+32 to maximum Life",
+                        "+43% to Cold Resistance"
+                    ],
+                    "frameType": 2,
+                    "x": 0,
+                    "y": 7,
+                    "inventoryId": "Stash8"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/ImmortalCall.png?w=1&h=1&scale=1&v=3843ced383e5dca18e076e57e9f67819",
+                    "support": false,
+                    "league": "Hardcore",
+                    "id": "c4a85d530351912d143119656fb542bf9408457f2329bb8dfeb32a00f49866bf",
+                    "name": "",
+                    "typeLine": "Immortal Call",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Spell, Duration, Guard",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Cost",
+                            "values": [["21", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cooldown Time",
+                            "values": [["3.00 sec", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cast Time",
+                            "values": [["Instant", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/252595", 0]],
+                            "displayMode": 2,
+                            "progress": 3.9589067455381155e-6,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["34", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["79", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Take less Physical and Elemental Damage for a short time. Consumes up to 5 Endurance Charges to lengthen the buff and further lessen Physical Damage taken. Shares a cooldown with other Guard skills.",
+                    "explicitMods": [
+                        "Base duration is 1.00 seconds",
+                        "20% increased Buff Duration per Endurance Charge removed",
+                        "This Skill's Cooldown does not recover during its effect",
+                        "25% less Elemental Damage taken",
+                        "25% less Physical Damage taken",
+                        "15% less Physical Damage taken per Endurance Charge removed"
+                    ],
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 0,
+                    "y": 6,
+                    "inventoryId": "Stash9"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/HeraldofIce.png?w=1&h=1&scale=1&v=098e32bf010edc365f1ec453f3477bc7",
+                    "support": false,
+                    "league": "Hardcore",
+                    "id": "3431d653f0728e1c58db7a2f1cfee5191b5534bb8883b752e487e1cd4949a9a7",
+                    "name": "",
+                    "typeLine": "Herald of Ice",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Spell, AoE, Cold, Herald",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Reserved",
+                            "values": [["25%", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cooldown Time",
+                            "values": [["1.00 sec", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cast Time",
+                            "values": [["Instant", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Effectiveness of Added Damage",
+                            "values": [["80%", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/49725", 0]],
+                            "displayMode": 2,
+                            "progress": 2.011060860240832e-5,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["16", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["26", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["18", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Channel ice through your hands, adding cold damage to spells and attacks. If you shatter an enemy, they explode and deal AoE cold damage to enemies near them. The AoE cold damage inflicted by this skill is not affected by modifiers to spell damage.",
+                    "explicitMods": [
+                        "Deals 18 to 26 Cold Damage",
+                        "Damage cannot be Reflected",
+                        "Adds 4 to 5 Cold Damage to Spells",
+                        "Adds 4 to 5 Cold Damage to Attacks"
+                    ],
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 0,
+                    "y": 5,
+                    "inventoryId": "Stash10"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Jewels/MidQuestRewardRed.png?w=1&h=1&scale=1&v=aa8cbeb565cc7d9ea0c852f2889ab9d2",
+                    "league": "Hardcore",
+                    "id": "e768eb8f423f0ffc5cbf2e1e687f3e9f4289ff48565f2876b4a03033c3047c90",
+                    "name": "Warlord's Reach",
+                    "typeLine": "Crimson Jewel",
+                    "identified": true,
+                    "ilvl": 1,
+                    "properties": [
+                        {
+                            "name": "Limited to",
+                            "values": [["1", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "explicitMods": ["8% increased Attack Damage", "+1 to Melee Strike Range"],
+                    "descrText": "Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+                    "flavourText": ["A steady hand can hold back an army."],
+                    "frameType": 3,
+                    "x": 11,
+                    "y": 4,
+                    "inventoryId": "Stash11"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/LifeLeech.png?w=1&h=1&scale=1&v=a286b7cb68bee2319a14a80c1e4bcf9c",
+                    "support": true,
+                    "league": "Hardcore",
+                    "id": "27134d26d7bd46362435339f2be02f76b21ac4018cc72e6c5e9e4c83436df071",
+                    "name": "",
+                    "typeLine": "Life Leech Support",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Support",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Multiplier",
+                            "values": [["130%", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/285815", 0]],
+                            "displayMode": 2,
+                            "progress": 3.4987667731911642e-6,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["31", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["52", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Supports any skill that hits enemies, causing those hits to leech life based on damage dealt.",
+                    "explicitMods": ["Supported Skills have 2% of Damage Leeched as Life"],
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 0,
+                    "y": 3,
+                    "inventoryId": "Stash12"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/SiphonGem.png?w=1&h=1&scale=1&v=3c8bba854543b5f696b81cc6517dbcf7",
+                    "support": false,
+                    "league": "Hardcore",
+                    "id": "6261eb58d7cd12acc4dc938f353ca7ba12f37a3d2bf494c7dbef6e7b24e9b226",
+                    "name": "",
+                    "typeLine": "Essence Drain",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Spell, Projectile, Duration, Chaos, AoE",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Cost",
+                            "values": [["8", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cast Time",
+                            "values": [["0.70 sec", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Critical Strike Chance",
+                            "values": [["5.00%", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Effectiveness of Added Damage",
+                            "values": [["60%", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/15249", 0]],
+                            "displayMode": 2,
+                            "progress": 6.557806773344055e-5,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["12", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["14", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["21", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Fires a projectile that applies a damage over time debuff when it hits. You are healed for a portion of the debuff damage. The debuff is spread by Contagion.",
+                    "explicitMods": [
+                        "Deals 9 to 14 Chaos Damage",
+                        "Deals 31.2 Base Chaos Damage per second",
+                        "Base duration is 3.80 seconds",
+                        "Modifiers to Spell Damage apply to this Skill's Damage Over Time effect",
+                        "Regenerate 0.50% of Debuff Damage as Life"
+                    ],
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 0,
+                    "y": 4,
+                    "inventoryId": "Stash13"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 2,
+                    "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9ldmFzaW9uZmxhc2swMSIsInciOjEsImgiOjIsInNjYWxlIjp0cnVlLCJsZXZlbCI6MX1d/5856dc353f/Item.png",
+                    "league": "Hardcore",
+                    "id": "dac306afc3a91e423e870c23aed8d944f38d29badd6c756645632a4e317bcbda",
+                    "name": "",
+                    "typeLine": "Jade Flask",
+                    "identified": true,
+                    "ilvl": 68,
+                    "properties": [
+                        {
+                            "name": "Lasts %0 Seconds",
+                            "values": [["4.00", 0]],
+                            "displayMode": 3
+                        },
+                        {
+                            "name": "Consumes %0 of %1 Charges on use",
+                            "values": [
+                                ["30", 0],
+                                ["60", 0]
+                            ],
+                            "displayMode": 3
+                        },
+                        {
+                            "name": "Currently has %0 Charges",
+                            "values": [["0", 0]],
+                            "displayMode": 3
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["27", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "utilityMods": ["+3000 to Evasion Rating"],
+                    "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+                    "frameType": 0,
+                    "x": 11,
+                    "y": 8,
+                    "inventoryId": "Stash14"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 2,
+                    "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtc1wvRmxhc2tzXC9zcHJpbnQiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6dHJ1ZSwibGV2ZWwiOjF9XQ/5d974e29ea/Item.png",
+                    "league": "Hardcore",
+                    "id": "8bfb9fb7925e3a40b89bf52d7edd1257afe19db1b8527a13c80e00b2d338b99c",
+                    "name": "",
+                    "typeLine": "Surgeon's Quicksilver Flask of Adrenaline",
+                    "identified": true,
+                    "ilvl": 52,
+                    "properties": [
+                        {
+                            "name": "Lasts %0 Seconds",
+                            "values": [["4.00", 0]],
+                            "displayMode": 3
+                        },
+                        {
+                            "name": "Consumes %0 of %1 Charges on use",
+                            "values": [
+                                ["20", 0],
+                                ["50", 0]
+                            ],
+                            "displayMode": 3
+                        },
+                        {
+                            "name": "Currently has %0 Charges",
+                            "values": [["0", 0]],
+                            "displayMode": 3
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["6", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "utilityMods": ["40% increased Movement Speed"],
+                    "explicitMods": [
+                        "20% chance to gain a Flask Charge when you deal a Critical Strike",
+                        "24% increased Movement Speed during Flask effect"
+                    ],
+                    "descrText": "Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.",
+                    "frameType": 1,
+                    "x": 11,
+                    "y": 10,
+                    "inventoryId": "Stash15"
+                }
+            ],
+            "public": true
+        },
+        {
+            "accountName": "XiaZ",
+            "lastCharacterName": "",
+            "id": "4baedf23834266c69db596b5cfa0bf35dbc7c92a3cf7c4fc634ac0b82f67b81e",
+            "stash": "~b/o 1 fuse",
+            "stashType": "PremiumStash",
+            "items": [
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Vulnerability.png?w=1&h=1&scale=1&v=1fdf799c4cb67bade056bbb8a62c7a5e",
+                    "support": false,
+                    "league": "Hardcore",
+                    "id": "8a05f59f0f8f36bcdaf7b8937e662be927af310932d9ee7c39c8fe9305a69269",
+                    "name": "",
+                    "typeLine": "Despair",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Spell, AoE, Duration, Curse, Chaos",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Cost",
+                            "values": [["16", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cast Time",
+                            "values": [["0.50 sec", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Quality",
+                            "values": [["+8%", 1]],
+                            "displayMode": 0,
+                            "type": 6
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/118383", 0]],
+                            "displayMode": 2,
+                            "progress": 8.447158506896812e-6,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["24", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["58", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Curse all targets in an area, making them less resistant to chaos damage and causing them to take increased damage over time. Cursed enemies also take additional chaos damage when hit.",
+                    "explicitMods": [
+                        "Base duration is 9.00 seconds",
+                        "Cursed enemies have -20% to Chaos Resistance",
+                        "Cursed enemies take 19% increased Damage from Damage Over Time effects",
+                        "Adds 9 to 12 Chaos Damage to Hits against Cursed Enemies"
+                    ],
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 8,
+                    "y": 4,
+                    "inventoryId": "Stash1"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/IceShot.png?w=1&h=1&scale=1&v=c34f8fc5f4532dd7d9c0e36d99591438",
+                    "support": false,
+                    "league": "Hardcore",
+                    "id": "2bb8581a882260623b937a138410ba7cf369324499e94ecddd2b1f966df04748",
+                    "name": "",
+                    "typeLine": "Ice Shot",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Attack, Projectile, AoE, Cold, Bow",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Cost",
+                            "values": [["6", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Effectiveness of Added Damage",
+                            "values": [["130%", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Quality",
+                            "values": [["+5%", 1]],
+                            "displayMode": 0,
+                            "type": 6
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/70", 0]],
+                            "displayMode": 2,
+                            "progress": 0.014285714365541935,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "secDescrText": "Fires an arrow that converts some physical damage to cold on its target and converts all physical damage to cold in a cone behind that target.",
+                    "explicitMods": [
+                        "60% of Physical Damage Converted to Cold Damage",
+                        "Deals 130% of Base Damage",
+                        "2 to 3 Added Cold Damage",
+                        "5% increased Cold Damage",
+                        "Chills Enemies as though dealing 100% more Damage"
+                    ],
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 1,
+                    "y": 11,
+                    "inventoryId": "Stash2"
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 2,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/DarkrayVectors.png?w=2&h=2&scale=1&v=6ddb5285ab1bd32a565dea229c97feed",
+                    "league": "Hardcore",
+                    "id": "15b5327cbaceef0289eb2a832995314915c6789436cf440465efc88a8290f8e7",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "S",
+                            "sColour": "R"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        }
+                    ],
+                    "name": "Darkray Vectors",
+                    "typeLine": "Dragonscale Boots",
+                    "identified": true,
+                    "ilvl": 68,
+                    "properties": [
+                        {
+                            "name": "Armour",
+                            "values": [["121", 0]],
+                            "displayMode": 0,
+                            "type": 16
+                        },
+                        {
+                            "name": "Evasion Rating",
+                            "values": [["121", 0]],
+                            "displayMode": 0,
+                            "type": 17
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["65", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["62", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["62", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "explicitMods": [
+                        "+35% to Lightning Resistance",
+                        "5% increased Movement Speed per Frenzy Charge",
+                        "+1 to Maximum Frenzy Charges",
+                        "50% reduced Frenzy Charge Duration",
+                        "25% reduced Light Radius",
+                        "2% chance to Dodge Attack Hits per Frenzy Charge"
+                    ],
+                    "flavourText": [
+                        "\"Sirrius flew on wings of light, faster than wind, faster\r",
+                        "than thought. But try as he might to outrun the darkness, \r",
+                        "it was there, at every turn, waiting for him.\"\r",
+                        "- Azmerian legend"
+                    ],
+                    "frameType": 3,
+                    "x": 0,
+                    "y": 4,
+                    "inventoryId": "Stash3",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 3,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyStrInt2C.png?w=2&h=3&scale=1&v=da51dd4c9ab2a0ddb4ea9e2edc4fb6b3",
+                    "league": "Hardcore",
+                    "id": "9d089e1fd53ba860691fcbba9d977002fae2864d4ad4cbf9a6205cc0e9cb88bf",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "S",
+                            "sColour": "R"
+                        }
+                    ],
+                    "name": "Armageddon Cloak",
+                    "typeLine": "Saint's Hauberk",
+                    "identified": true,
+                    "ilvl": 69,
+                    "properties": [
+                        {
+                            "name": "Armour",
+                            "values": [["762", 1]],
+                            "displayMode": 0,
+                            "type": 16
+                        },
+                        {
+                            "name": "Energy Shield",
+                            "values": [["306", 1]],
+                            "displayMode": 0,
+                            "type": 18
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["67", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["109", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["94", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "explicitMods": [
+                        "+23 to Intelligence",
+                        "72% increased Armour and Energy Shield",
+                        "+105 to maximum Energy Shield",
+                        "+35% to Lightning Resistance",
+                        "+20% to Chaos Resistance"
+                    ],
+                    "frameType": 2,
+                    "x": 8,
+                    "y": 7,
+                    "inventoryId": "Stash4",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 2,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/ShieldInt3.png?w=2&h=2&scale=1&v=0b4ca72b3f1678f750402c910c3fb09c",
+                    "league": "Hardcore",
+                    "id": "72223b97af0178cbe16d4f891a1d0a68e3a8b06b49ffddf88f440c326b5d7d2c",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "I",
+                            "sColour": "B"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        },
+                        {
+                            "group": 1,
+                            "attr": "S",
+                            "sColour": "R"
+                        }
+                    ],
+                    "name": "Fate Song",
+                    "typeLine": "Ivory Spirit Shield",
+                    "identified": true,
+                    "ilvl": 69,
+                    "properties": [
+                        {
+                            "name": "Chance to Block",
+                            "values": [["22%", 0]],
+                            "displayMode": 0,
+                            "type": 15
+                        },
+                        {
+                            "name": "Energy Shield",
+                            "values": [["33", 0]],
+                            "displayMode": 0,
+                            "type": 18
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["41", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["100", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "implicitMods": ["15% increased Spell Damage"],
+                    "explicitMods": [
+                        "+60 to maximum Life",
+                        "+28 to maximum Mana",
+                        "+14% to all Elemental Resistances",
+                        "+29% to Fire Resistance"
+                    ],
+                    "craftedMods": ["+21% to Cold Resistance"],
+                    "frameType": 2,
+                    "x": 6,
+                    "y": 10,
+                    "inventoryId": "Stash5",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/AddedLightningDamage.png?w=1&h=1&scale=1&v=a54bf6675b38b7ee6ea33731df2e88e1",
+                    "support": true,
+                    "league": "Hardcore",
+                    "id": "bc543066bb63b089c1316c386e5b9780990e7f32c65cd420c8bda570decbc0df",
+                    "name": "",
+                    "typeLine": "Added Lightning Damage Support",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Lightning, Support",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Multiplier",
+                            "values": [["130%", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/3231", 0]],
+                            "displayMode": 2,
+                            "progress": 0.000309501716401428,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["8", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["18", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Supports any skill that hits enemies.",
+                    "explicitMods": ["Supported Skills have 1 to 8 added Lightning Damage"],
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 9,
+                    "y": 5,
+                    "inventoryId": "Stash6"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 3,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Wands/Wand6.png?w=1&h=3&scale=1&v=54ba351a078c22737d02dfcec8466585",
+                    "league": "Hardcore",
+                    "id": "0494e0da35ccc8a97d025411a72200afd50ea8666a798156a87f1b0b8da0edab",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "I",
+                            "sColour": "B"
+                        },
+                        {
+                            "group": 1,
+                            "attr": "I",
+                            "sColour": "B"
+                        }
+                    ],
+                    "name": "Dragon Cry",
+                    "typeLine": "Sage Wand",
+                    "identified": true,
+                    "ilvl": 56,
+                    "properties": [
+                        {
+                            "name": "Wand",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Physical Damage",
+                            "values": [["45-83", 1]],
+                            "displayMode": 0,
+                            "type": 9
+                        },
+                        {
+                            "name": "Elemental Damage",
+                            "values": [["13-27", 5]],
+                            "displayMode": 0,
+                            "type": 10
+                        },
+                        {
+                            "name": "Critical Strike Chance",
+                            "values": [["8.00%", 0]],
+                            "displayMode": 0,
+                            "type": 12
+                        },
+                        {
+                            "name": "Attacks per Second",
+                            "values": [["1.20", 0]],
+                            "displayMode": 0,
+                            "type": 13
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["30", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["119", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "implicitMods": ["11% increased Spell Damage"],
+                    "explicitMods": [
+                        "31% increased Physical Damage",
+                        "Adds 11 to 21 Physical Damage",
+                        "Adds 13 to 27 Cold Damage",
+                        "13% increased Lightning Damage"
+                    ],
+                    "frameType": 2,
+                    "x": 0,
+                    "y": 9,
+                    "inventoryId": "Stash7",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 4,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/TwoHandWeapons/Staves/Staff7.png?w=2&h=4&scale=1&v=2718b1cdd8edb75efd7fb3a84478f18d",
+                    "league": "Hardcore",
+                    "id": "318f156297057ee554a93a2446c24a4f0842a8466d96120cdd4d370e25655a08",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "S",
+                            "sColour": "R"
+                        },
+                        {
+                            "group": 1,
+                            "attr": "I",
+                            "sColour": "B"
+                        },
+                        {
+                            "group": 2,
+                            "attr": "D",
+                            "sColour": "G"
+                        }
+                    ],
+                    "name": "Doom Pole",
+                    "typeLine": "Foul Staff",
+                    "identified": true,
+                    "ilvl": 56,
+                    "properties": [
+                        {
+                            "name": "Warstaff",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Physical Damage",
+                            "values": [["125-232", 1]],
+                            "displayMode": 0,
+                            "type": 9
+                        },
+                        {
+                            "name": "Critical Strike Chance",
+                            "values": [["6.95%", 1]],
+                            "displayMode": 0,
+                            "type": 12
+                        },
+                        {
+                            "name": "Attacks per Second",
+                            "values": [["1.30", 0]],
+                            "displayMode": 0,
+                            "type": 13
+                        },
+                        {
+                            "name": "Weapon Range",
+                            "values": [["13", 0]],
+                            "displayMode": 0,
+                            "type": 14
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["55", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["94", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["94", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "implicitMods": ["+12% Chance to Block Attack Damage while wielding a Staff"],
+                    "explicitMods": [
+                        "123% increased Physical Damage",
+                        "14% increased Critical Strike Chance",
+                        "35% increased Mana Regeneration Rate",
+                        "+18 to Accuracy Rating"
+                    ],
+                    "frameType": 2,
+                    "x": 6,
+                    "y": 0,
+                    "inventoryId": "Stash8",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 3,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword2.png?w=1&h=3&scale=1&v=a94ce74a6007ca561bb3a4bfa3abe15b",
+                    "league": "Hardcore",
+                    "id": "8775fbbd737adba67ec5e194189067b71ac6690d64b6d61534d5cbd79f8b58d5",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "S",
+                            "sColour": "R"
+                        },
+                        {
+                            "group": 1,
+                            "attr": "D",
+                            "sColour": "G"
+                        }
+                    ],
+                    "name": "Ghoul Slicer",
+                    "typeLine": "Gemstone Sword",
+                    "identified": true,
+                    "ilvl": 64,
+                    "properties": [
+                        {
+                            "name": "One Handed Sword",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Physical Damage",
+                            "values": [["85-174", 1]],
+                            "displayMode": 0,
+                            "type": 9
+                        },
+                        {
+                            "name": "Elemental Damage",
+                            "values": [["5-12", 4]],
+                            "displayMode": 0,
+                            "type": 10
+                        },
+                        {
+                            "name": "Critical Strike Chance",
+                            "values": [["5.00%", 0]],
+                            "displayMode": 0,
+                            "type": 12
+                        },
+                        {
+                            "name": "Attacks per Second",
+                            "values": [["1.30", 0]],
+                            "displayMode": 0,
+                            "type": 13
+                        },
+                        {
+                            "name": "Weapon Range",
+                            "values": [["11", 0]],
+                            "displayMode": 0,
+                            "type": 14
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["56", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["96", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["96", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "implicitMods": ["18% increased Global Accuracy Rating"],
+                    "explicitMods": [
+                        "67% increased Physical Damage",
+                        "Adds 12 to 21 Physical Damage",
+                        "Adds 5 to 12 Fire Damage",
+                        "15% reduced Enemy Stun Threshold",
+                        "+5 Life gained for each Enemy hit by your Attacks"
+                    ],
+                    "frameType": 2,
+                    "x": 3,
+                    "y": 3,
+                    "inventoryId": "Stash9",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/ChancetoIgnite.png?w=1&h=1&scale=1&v=edeeb9cb97280655b5a3be33a3d3ca57",
+                    "support": true,
+                    "league": "Hardcore",
+                    "id": "7f10d5d6b0bcae6b6bce079fed83185fba6cf331d786d4fbcd69edf7c08dd1fe",
+                    "name": "",
+                    "typeLine": "Combustion Support",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Fire, Support",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Multiplier",
+                            "values": [["120%", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/3231", 0]],
+                            "displayMode": 2,
+                            "progress": 0.000309501716401428,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["8", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["18", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Supports any skill that hits enemies.",
+                    "explicitMods": [
+                        "Supported Skills deal 10% more Fire Damage",
+                        "Supported Skills have 30% chance to Ignite",
+                        "Enemies Ignited by Supported Skills have -10% to Fire Resistance"
+                    ],
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 8,
+                    "y": 5,
+                    "inventoryId": "Stash10"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/Knockback.png?w=1&h=1&scale=1&v=f4c5ecc35abb51eb0c9254f635f11e2a",
+                    "support": true,
+                    "league": "Hardcore",
+                    "id": "acbc01564b2558ea17652f4a99baeef4be67d2085677f7136f587ec117b32d69",
+                    "name": "",
+                    "typeLine": "Knockback Support",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Support",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/3231", 0]],
+                            "displayMode": 2,
+                            "progress": 0.000309501716401428,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["8", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["18", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Supports any skill that hits enemies.",
+                    "explicitMods": [
+                        "Supported Skills have 25% chance to Knock Enemies Back on hit",
+                        "Supported Skills have 50% increased Knockback Distance"
+                    ],
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 9,
+                    "y": 6,
+                    "inventoryId": "Stash11"
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 3,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/OneHandSwords/OneHandSword8.png?w=2&h=3&scale=1&v=c134bf2ee29330334f8b71f4cc992f13",
+                    "league": "Hardcore",
+                    "id": "63394d9c0f47eb3452935a68c93a07330b1b08e51f628d985549f62dad529f24",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "S",
+                            "sColour": "R"
+                        }
+                    ],
+                    "name": "Eagle Scalpel",
+                    "typeLine": "Twilight Blade",
+                    "identified": true,
+                    "ilvl": 68,
+                    "properties": [
+                        {
+                            "name": "One Handed Sword",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Physical Damage",
+                            "values": [["95-244", 1]],
+                            "displayMode": 0,
+                            "type": 9
+                        },
+                        {
+                            "name": "Critical Strike Chance",
+                            "values": [["6.50%", 1]],
+                            "displayMode": 0,
+                            "type": 12
+                        },
+                        {
+                            "name": "Attacks per Second",
+                            "values": [["1.30", 0]],
+                            "displayMode": 0,
+                            "type": 13
+                        },
+                        {
+                            "name": "Weapon Range",
+                            "values": [["11", 0]],
+                            "displayMode": 0,
+                            "type": 14
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["53", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["91", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["91", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "implicitMods": ["18% increased Global Accuracy Rating"],
+                    "explicitMods": [
+                        "+1 to Level of Socketed Melee Gems",
+                        "+22 to Strength",
+                        "102% increased Physical Damage",
+                        "Adds 17 to 35 Physical Damage",
+                        "30% increased Critical Strike Chance",
+                        "+21% to Lightning Resistance"
+                    ],
+                    "frameType": 2,
+                    "x": 10,
+                    "y": 9,
+                    "inventoryId": "Stash12",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Hatred.png?w=1&h=1&scale=1&v=37205cdc1ceb1f70b66d9ca6b6e7ad4c",
+                    "support": false,
+                    "league": "Hardcore",
+                    "id": "ea7d8a61722ff4cf7aea595d31623de7d8d83d0f187de273d62be6b6bca0041d",
+                    "name": "",
+                    "typeLine": "Hatred",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Aura, Spell, AoE, Cold",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Reserved",
+                            "values": [["50%", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cooldown Time",
+                            "values": [["1.20 sec", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cast Time",
+                            "values": [["Instant", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/118383", 0]],
+                            "displayMode": 2,
+                            "progress": 8.447158506896812e-6,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["24", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["37", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["25", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Casts an aura that grants extra cold damage based on physical damage to you and your allies.",
+                    "explicitMods": [
+                        "You and nearby allies gain 16% of Physical Damage as Extra Cold Damage",
+                        "You and nearby allies deal 14% more Cold Damage"
+                    ],
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 6,
+                    "y": 5,
+                    "inventoryId": "Stash13"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/DecoyTotem.png?w=1&h=1&scale=1&v=5d88e661c175a75fd118bda4e06e7d3a",
+                    "support": false,
+                    "league": "Hardcore",
+                    "id": "6669c00610cdda20492a3f91156858cd562c4a6308724a6dc90f6b70726d2458",
+                    "name": "",
+                    "typeLine": "Decoy Totem",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Totem, Spell, AoE",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Cost",
+                            "values": [["9", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cooldown Time",
+                            "values": [["4.00 sec", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cast Time",
+                            "values": [["1.00 sec", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Quality",
+                            "values": [["+11%", 1]],
+                            "displayMode": 0,
+                            "type": 6
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/841", 0]],
+                            "displayMode": 2,
+                            "progress": 0.0011890606256201863,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["4", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["16", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Summons a totem that taunts nearby monsters to attack it.",
+                    "explicitMods": [
+                        "Totem lasts 8 seconds",
+                        "Totems Summoned by this Skill cannot Evade",
+                        "11% increased totem life"
+                    ],
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 9,
+                    "y": 3,
+                    "inventoryId": "Stash14"
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 2,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Gloves/GlovesStr4.png?w=2&h=2&scale=1&v=b2997b2df11d3b19cbb6a4c3054acda6",
+                    "league": "Hardcore",
+                    "id": "12b27dd4bc645f762160afe74fccb6f7a0b19e53fb0bf8f69cff6290fd7d3478",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "S",
+                            "sColour": "R"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "S",
+                            "sColour": "R"
+                        }
+                    ],
+                    "name": "Gloom Mitts",
+                    "typeLine": "Goliath Gauntlets",
+                    "identified": true,
+                    "ilvl": 70,
+                    "note": "~b/o 1 chaos",
+                    "properties": [
+                        {
+                            "name": "Armour",
+                            "values": [["174", 0]],
+                            "displayMode": 0,
+                            "type": 16
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["53", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["76", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "explicitMods": [
+                        "+14 to Strength",
+                        "+29 to maximum Life",
+                        "+20% to Cold Resistance",
+                        "+28% to Lightning Resistance"
+                    ],
+                    "frameType": 2,
+                    "x": 4,
+                    "y": 10,
+                    "inventoryId": "Stash15",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/ColdResistAura.png?w=1&h=1&scale=1&v=ff20ad8bc6877c4ffbf2606e812f3d7e",
+                    "support": false,
+                    "league": "Hardcore",
+                    "id": "f6fd44f8fe47abcfd62a337cb8f81586a2f3309c6deff30b13b8fb583ee56687",
+                    "name": "",
+                    "typeLine": "Purity of Ice",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Aura, Spell, AoE, Cold",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["16", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Reserved",
+                            "values": [["35%", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cooldown Time",
+                            "values": [["1.20 sec", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Cast Time",
+                            "values": [["Instant", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["13413371/15206031", 0]],
+                            "displayMode": 2,
+                            "progress": 0.8821086287498474,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["62", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["87", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["60", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Casts an aura that grants cold resistance to you and your allies.",
+                    "explicitMods": [
+                        "+15 to radius",
+                        "You and nearby allies gain 37% additional Cold Resistance",
+                        "You and nearby allies gain 2% additional maximum Cold Resistance"
+                    ],
+                    "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 9,
+                    "y": 4,
+                    "inventoryId": "Stash16"
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 3,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex3B.png?w=2&h=3&scale=1&v=808fa9360bda3074d55dce26cc0e823e",
+                    "league": "Hardcore",
+                    "id": "3c808bfae817a380fd9338cc15b3a77c2e1a1c214b86795c87eafb67a897b859",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        }
+                    ],
+                    "name": "Dragon Skin",
+                    "typeLine": "Destiny Leather",
+                    "identified": true,
+                    "ilvl": 63,
+                    "properties": [
+                        {
+                            "name": "Evasion Rating",
+                            "values": [["883", 1]],
+                            "displayMode": 0,
+                            "type": 17
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["59", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["160", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "explicitMods": [
+                        "47% increased Evasion Rating",
+                        "+28 to maximum Life",
+                        "+31% to Fire Resistance",
+                        "+30% to Lightning Resistance"
+                    ],
+                    "frameType": 2,
+                    "x": 10,
+                    "y": 3,
+                    "inventoryId": "Stash17",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 3,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDex1B.png?w=2&h=3&scale=1&v=6c54a5109d16d454488c1d342c00154e",
+                    "league": "Hardcore",
+                    "id": "e24ef7039cc2a5e07e736e0bb85808e895cf02effe5d64f8dcdea72477dbc518",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        },
+                        {
+                            "group": 1,
+                            "attr": "D",
+                            "sColour": "G"
+                        }
+                    ],
+                    "name": "Spirit Guardian",
+                    "typeLine": "Sharkskin Tunic",
+                    "identified": true,
+                    "ilvl": 69,
+                    "properties": [
+                        {
+                            "name": "Evasion Rating",
+                            "values": [["559", 0]],
+                            "displayMode": 0,
+                            "type": 17
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["56", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["152", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "explicitMods": [
+                        "+79 to maximum Life",
+                        "+25% to Fire Resistance",
+                        "+29% to Cold Resistance",
+                        "+25% to Lightning Resistance"
+                    ],
+                    "frameType": 2,
+                    "x": 10,
+                    "y": 0,
+                    "inventoryId": "Stash18",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/ColdtoFire.png?w=1&h=1&scale=1&v=f76fd6c513a3bfd76834138f85068113",
+                    "support": true,
+                    "league": "Hardcore",
+                    "id": "3ed0f55369906e89f9016fbda348a5852231abef0c4dab4944c953f136cfbc56",
+                    "name": "",
+                    "typeLine": "Cold to Fire Support",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Cold, Fire, Support",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["17", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Multiplier",
+                            "values": [["110%", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["13585984/26260555", 0]],
+                            "displayMode": 2,
+                            "progress": 0.5173532366752625,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["64", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["64", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["44", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Supports any skill that hits enemies.",
+                    "explicitMods": [
+                        "Supported Skills gain 26% of Cold Damage as Extra Fire Damage",
+                        "Supported Skills have 50% of Cold Damage Converted to Fire Damage"
+                    ],
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 4,
+                    "y": 1,
+                    "inventoryId": "Stash19"
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 2,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Boots/BootsDexInt4.png?w=2&h=2&scale=1&v=bfbd6b83d1a5a8dafbae030a0041b5fe",
+                    "league": "Hardcore",
+                    "id": "4bccf7e2739563d35a04e0d3ba40283df5f33313645f26fbb49df1495af564a6",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        }
+                    ],
+                    "name": "Domination Pace",
+                    "typeLine": "Carnal Boots",
+                    "identified": true,
+                    "ilvl": 68,
+                    "properties": [
+                        {
+                            "name": "Evasion Rating",
+                            "values": [["109", 1]],
+                            "displayMode": 0,
+                            "type": 17
+                        },
+                        {
+                            "name": "Energy Shield",
+                            "values": [["21", 1]],
+                            "displayMode": 0,
+                            "type": 18
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["55", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["52", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["52", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "explicitMods": [
+                        "10% increased Evasion and Energy Shield",
+                        "+75 to maximum Life",
+                        "+30% to Fire Resistance",
+                        "20% increased Movement Speed",
+                        "6% increased Stun and Block Recovery"
+                    ],
+                    "frameType": 2,
+                    "x": 8,
+                    "y": 10,
+                    "inventoryId": "Stash20",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/AddedColdDamage.png?w=1&h=1&scale=1&v=00ffc64707ddf66f4d012c9a8d0e942c",
+                    "support": true,
+                    "league": "Hardcore",
+                    "id": "dda4620d0c1788be9fbefbd6d84df65057e609fe8d60920861485d5b864379b3",
+                    "name": "",
+                    "typeLine": "Added Cold Damage Support",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Cold, Support",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Multiplier",
+                            "values": [["130%", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/3231", 0]],
+                            "displayMode": 2,
+                            "progress": 0.000309501716401428,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["8", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["18", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Supports any skill that hits enemies.",
+                    "explicitMods": ["Supported Skills have 4 to 6 added Cold Damage"],
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 5,
+                    "y": 2,
+                    "inventoryId": "Stash21"
+                },
+                {
+                    "verified": false,
+                    "w": 1,
+                    "h": 1,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/ColdtoFire.png?w=1&h=1&scale=1&v=f76fd6c513a3bfd76834138f85068113",
+                    "support": true,
+                    "league": "Hardcore",
+                    "id": "e4b504f337bc9179c0e36f29a6a51164c1044f530b4ebd4246269caa5cf6ba51",
+                    "name": "",
+                    "typeLine": "Cold to Fire Support",
+                    "identified": true,
+                    "ilvl": 0,
+                    "properties": [
+                        {
+                            "name": "Cold, Fire, Support",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Level",
+                            "values": [["1", 0]],
+                            "displayMode": 0,
+                            "type": 5
+                        },
+                        {
+                            "name": "Mana Multiplier",
+                            "values": [["110%", 0]],
+                            "displayMode": 0
+                        }
+                    ],
+                    "additionalProperties": [
+                        {
+                            "name": "Experience",
+                            "values": [["1/69833", 0]],
+                            "displayMode": 2,
+                            "progress": 1.4319877664092928e-5,
+                            "type": 20
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["18", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["21", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["14", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "secDescrText": "Supports any skill that hits enemies.",
+                    "explicitMods": [
+                        "Supported Skills gain 10% of Cold Damage as Extra Fire Damage",
+                        "Supported Skills have 50% of Cold Damage Converted to Fire Damage"
+                    ],
+                    "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                    "frameType": 4,
+                    "x": 4,
+                    "y": 2,
+                    "inventoryId": "Stash22"
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 3,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/BodyArmours/BodyDexInt1C.png?w=2&h=3&scale=1&v=58c31e9c01e3395af3661627cabc0db5",
+                    "league": "Hardcore",
+                    "id": "af94dfd522678caa10420ab27c5e9b3a07dfdb3e82c9a635c5218dc015beffe6",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        }
+                    ],
+                    "name": "Rage Ward",
+                    "typeLine": "Crimson Raiment",
+                    "identified": true,
+                    "ilvl": 69,
+                    "properties": [
+                        {
+                            "name": "Evasion Rating",
+                            "values": [["264", 0]],
+                            "displayMode": 0,
+                            "type": 17
+                        },
+                        {
+                            "name": "Energy Shield",
+                            "values": [["84", 1]],
+                            "displayMode": 0,
+                            "type": 18
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["51", 0]],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["71", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["71", 0]],
+                            "displayMode": 1
+                        }
+                    ],
+                    "explicitMods": [
+                        "+32 to maximum Energy Shield",
+                        "+93 to maximum Life",
+                        "+58 to maximum Mana",
+                        "+40% to Lightning Resistance",
+                        "+22% to Chaos Resistance"
+                    ],
+                    "craftedMods": ["+21% to Cold Resistance"],
+                    "frameType": 2,
+                    "x": 10,
+                    "y": 6,
+                    "inventoryId": "Stash23",
+                    "socketedItems": []
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 3,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Armours/Shields/Riseofthephoenix.png?w=2&h=3&scale=1&v=c7717c4e01b7e50687616c686503971c",
+                    "league": "Hardcore",
+                    "id": "3feaa536e6710f326cde7880cb44d184803d48f5f1562fa79498506f1199a54b",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "S",
+                            "sColour": "R"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "S",
+                            "sColour": "R"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "I",
+                            "sColour": "B"
+                        }
+                    ],
+                    "name": "Rise of the Phoenix",
+                    "typeLine": "Mosaic Kite Shield",
+                    "identified": true,
+                    "ilvl": 67,
+                    "properties": [
+                        {
+                            "name": "Chance to Block",
+                            "values": [["24%", 0]],
+                            "displayMode": 0,
+                            "type": 15
+                        },
+                        {
+                            "name": "Armour",
+                            "values": [["265", 1]],
+                            "displayMode": 0,
+                            "type": 16
+                        },
+                        {
+                            "name": "Energy Shield",
+                            "values": [["50", 1]],
+                            "displayMode": 0,
+                            "type": 18
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["66", 0]],
+                            "displayMode": 0,
+                            "suffix": "(gem)"
+                        },
+                        {
+                            "name": "Str",
+                            "values": [["146", 0]],
+                            "displayMode": 1,
+                            "suffix": "(gem)"
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["105", 0]],
+                            "displayMode": 1,
+                            "suffix": "(gem)"
+                        }
+                    ],
+                    "implicitMods": ["+8% to all Elemental Resistances"],
+                    "explicitMods": [
+                        "80% increased Armour and Energy Shield",
+                        "Regenerate 6 Life per second",
+                        "+8% to maximum Fire Resistance",
+                        "+21% to Fire Resistance",
+                        "+25% to Fire Resistance while on Low Life",
+                        "10% increased Movement Speed when on Low Life",
+                        "Cannot be Ignited while on Low Life"
+                    ],
+                    "flavourText": [
+                        "My bearer shall be guarded by flame,\r",
+                        "for I am the phoenix, forever radiant in glory."
+                    ],
+                    "frameType": 3,
+                    "x": 4,
+                    "y": 7,
+                    "inventoryId": "Stash24",
+                    "socketedItems": [
+                        {
+                            "verified": false,
+                            "w": 1,
+                            "h": 1,
+                            "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/EnduringCry.png?w=1&h=1&scale=1&v=0d2d8a9713adc2828f4626110eaee3ef",
+                            "support": false,
+                            "league": "Hardcore",
+                            "id": "e7e027943c35863aee069050f8d21b84d573bb558f2884143a7a8c4a087ff026",
+                            "name": "",
+                            "typeLine": "Enduring Cry",
+                            "identified": true,
+                            "ilvl": 0,
+                            "properties": [
+                                {
+                                    "name": "Warcry, AoE, Duration",
+                                    "values": [],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Level",
+                                    "values": [["18", 0]],
+                                    "displayMode": 0,
+                                    "type": 5
+                                },
+                                {
+                                    "name": "Mana Cost",
+                                    "values": [["16", 0]],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Cooldown Time",
+                                    "values": [["4.00 sec", 0]],
+                                    "displayMode": 0
+                                }
+                            ],
+                            "additionalProperties": [
+                                {
+                                    "name": "Experience",
+                                    "values": [["47885505/62872274", 0]],
+                                    "displayMode": 2,
+                                    "progress": 0.7616314888000488,
+                                    "type": 20
+                                }
+                            ],
+                            "requirements": [
+                                {
+                                    "name": "Level",
+                                    "values": [["66", 0]],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Str",
+                                    "values": [["146", 0]],
+                                    "displayMode": 1
+                                }
+                            ],
+                            "secDescrText": "Performs a warcry, adding endurance charges proportional to the number of surrounding enemies and granting life regeneration to you for a short time if there are nearby enemies. Taunts all nearby enemies to attack the user. Shares a cooldown with other Warcry skills.",
+                            "explicitMods": [
+                                "Base duration is 0.75 seconds",
+                                "34 Endurance Charges granted per one hundred nearby enemies",
+                                "Regenerate 356 Life per second"
+                            ],
+                            "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                            "frameType": 4,
+                            "socket": 0,
+                            "colour": "S"
+                        },
+                        {
+                            "verified": false,
+                            "w": 1,
+                            "h": 1,
+                            "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/IncreasedDuration.png?w=1&h=1&scale=1&v=14b3a91933f0b921d1b573358e31f768",
+                            "support": true,
+                            "league": "Hardcore",
+                            "id": "686c7bd8355bd947349f8bcdf60941fc7b0b80a8373a50357434e0be31cabdd6",
+                            "name": "",
+                            "typeLine": "Increased Duration Support",
+                            "identified": true,
+                            "ilvl": 0,
+                            "properties": [
+                                {
+                                    "name": "Support, Duration",
+                                    "values": [],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Level",
+                                    "values": [["18", 0]],
+                                    "displayMode": 0,
+                                    "type": 5
+                                },
+                                {
+                                    "name": "Mana Multiplier",
+                                    "values": [["140%", 0]],
+                                    "displayMode": 0
+                                }
+                            ],
+                            "additionalProperties": [
+                                {
+                                    "name": "Experience",
+                                    "values": [["39499861/62460771", 0]],
+                                    "displayMode": 2,
+                                    "progress": 0.6323946714401245,
+                                    "type": 20
+                                }
+                            ],
+                            "requirements": [
+                                {
+                                    "name": "Level",
+                                    "values": [["66", 0]],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Str",
+                                    "values": [["105", 0]],
+                                    "displayMode": 1
+                                }
+                            ],
+                            "secDescrText": "Supports any skill with a duration.",
+                            "explicitMods": [
+                                "Supported Skills have 62% increased Skill Effect Duration"
+                            ],
+                            "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                            "frameType": 4,
+                            "socket": 1,
+                            "colour": "S"
+                        },
+                        {
+                            "verified": false,
+                            "w": 1,
+                            "h": 1,
+                            "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/Support/IncreasedAOE.png?w=1&h=1&scale=1&v=d6cd9a50d6bdb54a4925923b0d617d16",
+                            "support": true,
+                            "league": "Hardcore",
+                            "id": "c3cc79559772ddaadafad2c5d4ad92d3ab2ba95fe85fa13855228063b5c9e23b",
+                            "name": "",
+                            "typeLine": "Increased Area of Effect Support",
+                            "identified": true,
+                            "ilvl": 0,
+                            "properties": [
+                                {
+                                    "name": "Support, AoE",
+                                    "values": [],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Level",
+                                    "values": [["16", 0]],
+                                    "displayMode": 0,
+                                    "type": 5
+                                },
+                                {
+                                    "name": "Mana Multiplier",
+                                    "values": [["140%", 0]],
+                                    "displayMode": 0
+                                }
+                            ],
+                            "additionalProperties": [
+                                {
+                                    "name": "Experience",
+                                    "values": [["11781205/16159983", 0]],
+                                    "displayMode": 2,
+                                    "progress": 0.7290357351303101,
+                                    "type": 20
+                                }
+                            ],
+                            "requirements": [
+                                {
+                                    "name": "Level",
+                                    "values": [["66", 0]],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Int",
+                                    "values": [["105", 0]],
+                                    "displayMode": 1
+                                }
+                            ],
+                            "secDescrText": "Supports any skill with an area of effect.",
+                            "explicitMods": ["Supported Skills have 45% increased Area of Effect"],
+                            "descrText": "This is a Support Gem. It does not grant a bonus to your character, but to skills in sockets connected to it. Place into an item socket connected to a socket containing the Active Skill Gem you wish to augment. Right click to remove from a socket.",
+                            "frameType": 4,
+                            "socket": 2,
+                            "colour": "I"
+                        }
+                    ]
+                },
+                {
+                    "verified": false,
+                    "w": 2,
+                    "h": 2,
+                    "icon": "https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/CybilsClaw.png?w=2&h=2&scale=1&v=37a03a007ecf0dc09b4142983b3333f8",
+                    "league": "Hardcore",
+                    "id": "292b2df0fbe5b841c0effc7159d4fae32e200469e8c59cfe193a367a589b0974",
+                    "sockets": [
+                        {
+                            "group": 0,
+                            "attr": "I",
+                            "sColour": "B"
+                        },
+                        {
+                            "group": 0,
+                            "attr": "D",
+                            "sColour": "G"
+                        }
+                    ],
+                    "name": "Cybil's Paw",
+                    "typeLine": "Thresher Claw",
+                    "identified": true,
+                    "ilvl": 69,
+                    "properties": [
+                        {
+                            "name": "Claw",
+                            "values": [],
+                            "displayMode": 0
+                        },
+                        {
+                            "name": "Physical Damage",
+                            "values": [["20-53", 0]],
+                            "displayMode": 0,
+                            "type": 9
+                        },
+                        {
+                            "name": "Critical Strike Chance",
+                            "values": [["6.50%", 0]],
+                            "displayMode": 0,
+                            "type": 12
+                        },
+                        {
+                            "name": "Attacks per Second",
+                            "values": [["1.30", 0]],
+                            "displayMode": 0,
+                            "type": 13
+                        },
+                        {
+                            "name": "Weapon Range",
+                            "values": [["11", 0]],
+                            "displayMode": 0,
+                            "type": 14
+                        }
+                    ],
+                    "requirements": [
+                        {
+                            "name": "Level",
+                            "values": [["68", 0]],
+                            "displayMode": 0,
+                            "suffix": "(gem)"
+                        },
+                        {
+                            "name": "Dex",
+                            "values": [["53", 0]],
+                            "displayMode": 1
+                        },
+                        {
+                            "name": "Int",
+                            "values": [["151", 0]],
+                            "displayMode": 1,
+                            "suffix": "(gem)"
+                        }
+                    ],
+                    "implicitMods": ["+21 Life gained for each Enemy hit by Attacks"],
+                    "explicitMods": [
+                        "11% increased Cast Speed",
+                        "+38 to maximum Mana",
+                        "+7 Life gained for each Enemy hit by your Spells",
+                        "8% increased Spell Damage per 5% Chance to Block Attack Damage"
+                    ],
+                    "flavourText": [
+                        "Tread lightly, lest their vigil find you.\r",
+                        "Speak softly, lest their reason fend you.\r",
+                        "Cut gently, lest their spirit haunt you."
+                    ],
+                    "frameType": 3,
+                    "x": 6,
+                    "y": 8,
+                    "inventoryId": "Stash25",
+                    "socketedItems": [
+                        {
+                            "verified": false,
+                            "w": 1,
+                            "h": 1,
+                            "icon": "https://web.poecdn.com/image/Art/2DItems/Gems/ChaosElementalSummon.png?w=1&h=1&scale=1&v=1b72d2848411f3b3bb92c4ad588ce0c5",
+                            "support": false,
+                            "league": "Hardcore",
+                            "id": "3dd99aaecca493fb06ea7d62c9064724c3fb4e0a743957a3300564d2ac0d0b98",
+                            "name": "",
+                            "typeLine": "Summon Chaos Golem",
+                            "identified": true,
+                            "ilvl": 0,
+                            "properties": [
+                                {
+                                    "name": "Chaos, Minion, Spell, Golem",
+                                    "values": [],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Level",
+                                    "values": [["18", 0]],
+                                    "displayMode": 0,
+                                    "type": 5
+                                },
+                                {
+                                    "name": "Mana Cost",
+                                    "values": [["52", 0]],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Cooldown Time",
+                                    "values": [["6.00 sec", 0]],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Cast Time",
+                                    "values": [["1.00 sec", 0]],
+                                    "displayMode": 0
+                                }
+                            ],
+                            "additionalProperties": [
+                                {
+                                    "name": "Experience",
+                                    "values": [["33579553/87248039", 0]],
+                                    "displayMode": 2,
+                                    "progress": 0.3848745822906494,
+                                    "type": 20
+                                }
+                            ],
+                            "requirements": [
+                                {
+                                    "name": "Level",
+                                    "values": [["68", 0]],
+                                    "displayMode": 0
+                                },
+                                {
+                                    "name": "Int",
+                                    "values": [["151", 0]],
+                                    "displayMode": 1
+                                }
+                            ],
+                            "secDescrText": "Summons a Chaos Golem that grants you Physical Damage Reduction. The Chaos Golem can use a damage over time Chaos aura and a cascade of Chaos spikes in addition to its melee attack.",
+                            "explicitMods": [
+                                "Maximum 1 Summoned Golem",
+                                "64% increased Minion Maximum Life",
+                                "Golems grant 4% additional Physical Damage Reduction"
+                            ],
+                            "descrText": "Place into an item socket of the right colour to gain this skill. Right click to remove from a socket.",
+                            "frameType": 4,
+                            "socket": 0,
+                            "colour": "I"
+                        }
+                    ]
+                }
+            ],
+            "public": true
+        }
+    ]
+}

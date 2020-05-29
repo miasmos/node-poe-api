@@ -1,34 +1,39 @@
-const nodeExternals = require('webpack-node-externals');
-const TypedocWebpackPlugin = require('typedoc-webpack-plugin');
-const Dotenv = require('dotenv-webpack');
+/* eslint-disable @typescript-eslint/no-var-requires */
+const nodeExternals = require("webpack-node-externals");
+const Dotenv = require("dotenv-webpack");
+const CircularDependencyPlugin = require("circular-dependency-plugin");
 
 module.exports = {
-    entry: './src/index.ts',
+    entry: "./src/index.ts",
     output: {
-        filename: './index.js'
+        filename: "index.js",
+        libraryTarget: "umd",
+        library: "node-tradingview",
+        umdNamedDefine: true
     },
     resolve: {
-        extensions: ['.ts', '.tsx', '.js', '.jsx']
+        extensions: [".ts"]
     },
-    target: 'node',
+    target: "node",
     externals: [nodeExternals()],
     module: {
         rules: [
-            { test: /\.(t|j)sx?$/, use: ['ts-loader', 'eslint-loader'] },
-            { enforce: 'pre', test: /\.js$/, loader: 'source-map-loader' }
+            {
+                test: /\.tsx?$/,
+                exclude: /node_modules/,
+                use: ["awesome-typescript-loader", "eslint-loader"]
+            },
+            { enforce: "pre", test: /\.js$/, loader: "source-map-loader" }
         ]
     },
-    devtool: 'source-map',
+    devtool: "source-map",
     plugins: [
         new Dotenv(),
-        new TypedocWebpackPlugin({
-            name: 'Path of Exile API',
-            out: '../docs',
-            mode: 'file',
-            theme: 'markdown',
-            includeDeclarations: true,
-            ignoreCompilerErrors: true,
-            hideGenerator: true
+        new CircularDependencyPlugin({
+            exclude: /node_modules/,
+            failOnError: true,
+            allowAsyncCycles: false,
+            cwd: process.cwd()
         })
     ]
 };

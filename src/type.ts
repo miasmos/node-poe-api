@@ -1,24 +1,12 @@
-export enum StashType {
-    Normal = 'NormalStash',
-    Premium = 'PremiumStash',
-    Quad = 'QuadStash',
-    Essence = 'EssenceStash',
-    Currency = 'CurrencyStash',
-    Map = 'MapStash',
-    Fragment = 'FragmentStash',
-    Divination = 'DivinationStash'
-}
+/* eslint-disable camelcase */
 
-export enum League {
-    Standard = 'Standard',
-    Hardcore = 'Hardcore'
-}
+import { ItemFrameType, StashType, League, ItemValueType } from "./enum";
 
 export interface Item {
     abyssJewel?: boolean;
     additonalProperties?: [];
     artFilename?: string;
-    category: ItemCategory[];
+    category?: ItemCategory[];
     corrupted?: boolean;
     cosmeticMods?: string[];
     craftedMods?: string[];
@@ -49,8 +37,9 @@ export interface Item {
     requirements?: ItemProperties[];
     secDescrText?: string;
     shaper?: boolean;
-    socketedItems?: Item[];
+    socketedItems?: (Item | GemItem)[];
     sockets?: ItemSockets[];
+    additionalProperties?: ItemProperties[];
     stackSize?: number;
     support?: boolean;
     talismanTier?: number;
@@ -60,6 +49,11 @@ export interface Item {
     w: number;
     x: number;
     y: number;
+}
+
+export interface GemItem extends Omit<Item, "x" | "y"> {
+    socket: number;
+    colour: string;
 }
 
 export interface ItemCategory {
@@ -75,38 +69,17 @@ export interface ItemSockets {
     sColour: string;
 }
 
-export interface ItemProperties {
-    name: string;
-    values: ItemPropertyValuePair[];
-    displayMode: number;
-    type: number;
-    progress: number;
-}
-
 export interface ItemPropertyValuePair {
     [key: string]: ItemValueType;
 }
 
-export enum ItemValueType {
-    White = 0,
-    Blue = 1,
-    Fire = 4,
-    Cold = 5,
-    Lightning = 6,
-    Chaos = 7
-}
-
-export enum ItemFrameType {
-    Normal = 0,
-    Magic = 1,
-    Rare = 2,
-    Unique = 3,
-    Gem = 4,
-    Currency = 5,
-    DivinationCard = 6,
-    QuestItem = 7,
-    Prophecy = 8,
-    Relic = 9
+export interface ItemProperties {
+    name: string;
+    values?: [string, number][];
+    displayMode: number;
+    type?: number;
+    progress?: number;
+    suffix?: string;
 }
 
 export interface Stashes {
@@ -116,8 +89,12 @@ export interface Stashes {
     lastCharacterName: string | null;
     stash: string | null;
     stashType: StashType;
-    league: League;
-    items: Item[];
+    league?: League;
+    items: (Item | GemItem)[];
+}
+
+export interface StashTabsOptions {
+    id: string;
 }
 
 export interface StashTabsResponse {

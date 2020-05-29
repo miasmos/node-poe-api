@@ -6,7 +6,7 @@ logs
 build
 
 # Dependency directories
-node_modules/
+node_modules
 
 # Typescript v1 declaration files
 typings/
@@ -17,9 +17,6 @@ typings/
 # Optional eslint cache
 .eslintcache
 
-# dotenv environment variables file
-.env
-
 # OS metadata
 .DS_Store
 Thumbs.db
@@ -27,3 +24,4 @@ Thumbs.db
 dist
 coverage
 .nyc_output
+docs
