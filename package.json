@@ -1,6 +1,6 @@
 {
     "name": "poe-api",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "description": "A minimal module exposing the Path of Exile stash tabs api.",
