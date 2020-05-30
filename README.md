@@ -25,4 +25,4 @@ yarn add node-poe-api
 
 ## Documentation
 
-You may find the _node-poe-api_ documentation [here](https://stephenpoole.github.io/node-poe-api).
+You may find the _node-poe-api_ documentation [here](https://stephenpoole.github.io/poe/).
